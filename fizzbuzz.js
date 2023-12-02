@@ -1,5 +1,6 @@
 //This is a code to output either fizzbuzz if a number is divible by 3 and 5.
-//fizz if a number is only divisble 3
+//fizz if a number is only divisble by 3.
+//buzz if a number is only divisible by 5.
 
 for (i=1; i<=100; i++)
     {
